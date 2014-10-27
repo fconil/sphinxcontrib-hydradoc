@@ -12,3 +12,14 @@ TODO
 - [ ] Si on prend un **fichier** Hydra en entrée, déterminer le path exact, l'utilisateur donne juste le nom du fichier
 - [ ] Pouvoir mettre une **uri** vers la description Hydra
 - [ ] Définir les options de la ou des directive(s)
+
+
+Développement
+-------------
+
+Pour aider le développement de cette extension nous conseillons la lecture de ces 
+documentation :
+
+- http://sphinx-doc.org/extdev/
+- http://sphinx-doc.org/extdev/tutorial.html
+- http://sphinx-doc.org/extdev/appapi.html
