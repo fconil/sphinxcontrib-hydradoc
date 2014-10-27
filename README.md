@@ -23,3 +23,4 @@ documentation :
 - http://sphinx-doc.org/extdev/
 - http://sphinx-doc.org/extdev/tutorial.html
 - http://sphinx-doc.org/extdev/appapi.html
+- https://github.com/thewtex/sphinx-contrib
