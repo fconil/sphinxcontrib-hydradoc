@@ -2,7 +2,7 @@
 
 from setuptools import setup, find_packages
 
-with open('README.md') as stream:
+with open('./README.md') as stream:
   long_desc = stream.read()
 
 requires = ['Sphinx>=1.0.5']

@@ -7,7 +7,7 @@ import os
 import sys
 
 from sphinxcontrib import hydradoc
-from sphinxcontrib.hydradoc import toindex, toname
+from sphinxcontrib.hydradoc import setup
 
 
 def test():
