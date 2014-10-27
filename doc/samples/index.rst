@@ -21,7 +21,7 @@ Indices and tables
 * :ref:`search`
 
 .. hydradoc:: blablabla
-    :file: vocab-hydra-demo.jsonld
+    :file: vocab.json-ld
     :uri: http://www.markus-lanthaler.com/hydra/api-demo/vocab
     :type: Hydra
 

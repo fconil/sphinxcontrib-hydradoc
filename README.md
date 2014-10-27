@@ -9,9 +9,9 @@ Dans la partie droite de la console apparaît une documentation lisible du servi
 
 TODO
 ----
-- [ ] Si on prend un **fichier** Hydra en entrée, déterminer le path exact, l'utilisateur donne juste le nom du fichier
-- [ ] Pouvoir mettre une **uri** vers la description Hydra
-- [ ] Définir les options de la ou des directive(s)
+- [X] Si on prend un **fichier** Hydra en entrée, déterminer le path exact, l'utilisateur donne juste le nom du fichier
+- [X] Pouvoir mettre une **uri** vers la description Hydra
+- [X] Définir les options de la ou des directive(s)
 
 
 Développement
