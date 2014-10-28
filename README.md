@@ -24,3 +24,4 @@ documentation :
 - http://sphinx-doc.org/extdev/tutorial.html
 - http://sphinx-doc.org/extdev/appapi.html
 - https://github.com/thewtex/sphinx-contrib
+- https://github.com/felipeblassioli/sphinx_autoflask
